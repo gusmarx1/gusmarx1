@@ -21,8 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusmarx1&show_icons=true&locale=en&layout=compact" alt="gusmarx1" /></p>
 
-</br>
-<p alig="center"> <img alingn="center" src="https://profile-counter.glitch.me/gusmarx1/count.svg" /></p>
 
 
 
